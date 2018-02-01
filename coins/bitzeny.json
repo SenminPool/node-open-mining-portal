@@ -1,0 +1,7 @@
+{
+    "name": "bitzeny",
+    "symbol": "ZNY",
+    "algorithm": "yescrypt",
+    "payFoundersReward": true,
+    "percentFoundersReward": 5
+}
